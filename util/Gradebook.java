@@ -1,7 +1,4 @@
-/* This is part of the starter code!
- * You need to complete this class yourself!
- *
- * Class: Gradebook
+/* Class: Gradebook
  * Purpose: Stores a collection of students and their grades.
  *          Computes stats (min, max, average, median),
  *          modify student grades, retrieve student info, and print student info.

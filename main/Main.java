@@ -1,7 +1,4 @@
-/* This is part of the starter code! 
- * You need to complete this class yourself!
- *
- * Program: Gradebook Program
+/* Program: Gradebook Program
  * Description: This program allows users to enter student data (first name, last name, PID, grade),
  *              and then process commands to retrieve stats such as min, max, average, median scores,
  *              and letter grades. Users can also change student grades and retrieve student details.

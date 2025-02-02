@@ -1,7 +1,4 @@
-/* This is part of the starter code!
- * You need to complete this class yourself!
- *
- * Class: Grade
+/* Class: Grade
  * Purpose: Represents a student's grade score and its letter grade.
  */
 

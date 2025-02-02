@@ -1,7 +1,4 @@
-/* This is part of the starter code!
- * You need to complete this class yourself!
- *
- * Class: Student
+/* Class: Student
  * Purpose: Represents a student with a first name, last name, unique PID, and a Grade object.
  */
 
